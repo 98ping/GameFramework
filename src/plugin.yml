@@ -1,0 +1,4 @@
+name: mGameFramework
+version: 1.1
+main: club.matrixstudios.framework.GameFramework
+author: Matrix Studios
